@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me
+
+- 👋 Hi, I'm Kate! I'm a software development student.
+- 🌱 I’m currently doing a Full Stack Software Development bootcamp with <a href="https://northcoders.com/">Northcoders</a>.
+- :computer: I started my coding journey in July 2022, by learning HTML & CSS through The Odin Project Foundations Course. Since then, I've completed the Responsive Web Design and JavaScript Algorithms and Data Structures certifications on freeCodeCamp.
+- :syringe: I've been a Registered Nurse for almost 10 years. I worked as a bedside nurse for 8 years and have done digital nursing roles in the last 2 years. In my last role, I worked as a clinical application analyst for the <a href="https://mft.nhs.uk/hive-epr/">biggest Electronic Patient Record implementation in the UK</a>.
+
 
 <!--
 **cutetofuu/cutetofuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
