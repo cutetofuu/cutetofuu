@@ -1,10 +1,13 @@
-### About Me
+### Hello, I'm Kate 👋
 
-- 👋 Hi, I'm Kate! I'm a software development student.
-- 🌱 I’m currently doing a Full Stack Software Development bootcamp with <a href="https://northcoders.com/" target="_blank">Northcoders</a>.
-- :computer: I started my coding journey in July 2022, by learning HTML & CSS through The Odin Project Foundations Course. Since then, I've completed the Responsive Web Design and JavaScript Algorithms and Data Structures certifications on freeCodeCamp.
-- :syringe: I've been a Registered Nurse for almost 10 years.
+- 👩🏻‍💻 An Apprentice Engineer at [Credera](https://www.credera.co.uk/)
+- 🌱 Currently doing a Level 4 DevOps Apprenticeship training course
+- :syringe: Previously worked as a bedside / digital nurse for almost 10 years
 
+
+![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutetofuu&count_private=true&show_icons=true&theme=dracula) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutetofuu&layout=compact&theme=dracula)](https://github.com/cutetofuu/github-readme-stats)
 
 <!--
 **cutetofuu/cutetofuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
